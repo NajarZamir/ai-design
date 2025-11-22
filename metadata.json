@@ -1,0 +1,5 @@
+{
+  "name": "AI Product Scene Generator",
+  "description": "An AI-powered tool that generates stunning product scenes. Upload a product image, describe the scene you envision, and let the AI create a beautiful, photorealistic image for you, similar to Flair.ai.",
+  "requestFramePermissions": []
+}
